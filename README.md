@@ -1,4 +1,4 @@
-# pradeep-sannamuri_-Image_Colour_Identification_AI
+# pradeep_-Image_Colour_Identification_AI
 
 ## Identifying the Image Color using AI and several machine learning metholodigies
 
